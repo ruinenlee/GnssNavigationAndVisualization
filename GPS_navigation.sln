@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS_navigation.Android", "GPS_navigation\GPS_navigation.Android\GPS_navigation.Android.csproj", "{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS_navigation", "GPS_navigation\GPS_navigation\GPS_navigation.csproj", "{47466A0B-4E31-4A62-9C67-E64E66E133F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47333B11-84D1-4E6E-A9E0-4D2D7EF27BE2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{47466A0B-4E31-4A62-9C67-E64E66E133F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47466A0B-4E31-4A62-9C67-E64E66E133F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47466A0B-4E31-4A62-9C67-E64E66E133F1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{47466A0B-4E31-4A62-9C67-E64E66E133F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47466A0B-4E31-4A62-9C67-E64E66E133F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47466A0B-4E31-4A62-9C67-E64E66E133F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53DDDDA-5900-4141-A6DE-9609F5376F95}
+	EndGlobalSection
+EndGlobal
